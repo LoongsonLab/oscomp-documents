@@ -20,4 +20,4 @@
 
 ## 比赛参考资料
 
- - [龙芯架构参考手册卷一](https://github.com/LoongsonLab/oscomp-documents/pdf/龙芯架构参考手册卷一.pdf)
+ - [龙芯架构参考手册卷一](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/%E9%BE%99%E8%8A%AF%E6%9E%B6%E6%9E%84%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C%E5%8D%B7%E4%B8%80.pdf)
