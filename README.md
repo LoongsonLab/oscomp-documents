@@ -21,3 +21,21 @@
 ## 比赛参考资料
 
  - [龙芯架构参考手册卷一](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/%E9%BE%99%E8%8A%AF%E6%9E%B6%E6%9E%84%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C%E5%8D%B7%E4%B8%80.pdf)
+ 
+ - [龙芯2K1000LA处理器用户手册_V1.0](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/%E9%BE%99%E8%8A%AF2K1000LA%E5%A4%84%E7%90%86%E5%99%A8%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_V1.0.pdf)
+
+ - [龙芯2K1000星云板用户手册V1.1](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/%E5%B9%BF%E4%B8%9C%E9%BE%99%E8%8A%AF2K1000%E6%98%9F%E4%BA%91%E6%9D%BF%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8CV1.1.pdf)
+
+ - [计算机体系结构基础(LoongArch)(第三版)](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80(LoongArch)-3rd.pdf)
+
+ - [LoongArch 系统调用(syscall)ABI](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/LoongArch%20%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8(syscall)ABI.pdf)
+
+ - [LoongArch-工具链约定](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/LoongArch-%E5%B7%A5%E5%85%B7%E9%93%BE%E7%BA%A6%E5%AE%9A.pdf)
+
+ - [LoongArch ELF ABI(中文版)](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/LoongArch-ELF-ABI-CN.pdf)
+
+ 资料持续更新
+
+
+
+
