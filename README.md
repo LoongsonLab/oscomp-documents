@@ -69,8 +69,6 @@
 
  - [Loongson 官方开源软件下载](http://www.loongnix.cn/zh/proj/)
 
- - [在线论坛](https://bbs.elecfans.com/group_1650)
-
 
 ### 开源的OS
 
