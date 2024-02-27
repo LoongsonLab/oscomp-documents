@@ -35,6 +35,8 @@
 
  - [LoongArch ELF ABI(中文版)](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/LoongArch-ELF-ABI-CN.pdf)
 
+ - [LoongArch 汇编手册(英文版)](https://github.com/LoongsonLab/oscomp-documents/blob/main/pdf/la-asm-manual.pdf)
+
  - 更多龙架构相关文档，可以参考[龙芯开源社区](http://loongnix.cn)，[龙芯中科公司官网](https://loongson.cn/)，[龙芯在github的官方账号](https://github.com/loongson)以及[龙芯实验室为大赛设置的文档仓库](https://github.com/LoongsonLab/oscomp-documents)
 
 
