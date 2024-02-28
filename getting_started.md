@@ -47,10 +47,15 @@ loongarch64-linux-gnu-gcc -v
 tar zxf loongarch64-linux-gnu-gdb.tgz
 tar zxf qemu.tgz
 
-#增加环境变量
+# 安装qemu所需要的依赖
+sudo apt install libfdt-dev libcapstone-dev libspice-server-dev libsdl2-dev libusbredirparser1 libiscsi7 libaio1
+
+# 增加环境变量
 export PATH=${PATH}:/your-dir/bin
 
+# 测试是否安装正确
 loongarch64-linux-gnu-gdb -v
+qemu-system-loongarch64 -M ?
 
 ```
 
