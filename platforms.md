@@ -908,3 +908,22 @@ fdtdump la_virt.dtb > la_virt.dtb.dts
 };
 
 ```
+
+
+# 工具链
+
+## 编译 LoongArch musl libc库
+
+```shell 
+git clone https://github.com/LoongsonLab/oscomp-musl-1.2.4.git
+
+# 保证交叉编译器已经正确安装
+./configure --target=loongarch64-linux-gnu CFLAGS="-mabi=lp64d" --prefix=/xx/xx
+
+make -j 
+```
+
+其中--target=指定我们需要交叉编译musl，-mabi指定我们abi的类型，目前LoongArch支持两种：lp64d和lp64s。
+lp64d指带64位浮点，lp64s选项开启编译器软浮点功能。该选项禁止编译器自动生成硬件浮点指令。
+--prefix指定安装的位置。安装完成后可使用musl libc库。
+
